@@ -17,7 +17,7 @@ abstract class Cuenta {
     }
 }
 
-// 🔵 CUENTA AHORRO
+//  CUENTA AHORRO
 class CuentaAhorro extends Cuenta {
 
     public CuentaAhorro(String nombre, double saldo) {
