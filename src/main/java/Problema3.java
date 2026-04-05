@@ -35,7 +35,7 @@ class CuentaAhorro extends Cuenta {
     }
 }
 
-// 🔴 CUENTA CORRIENTE
+//  CUENTA CORRIENTE
 class CuentaCorriente extends Cuenta {
 
     public CuentaCorriente(String nombre, double saldo) {
@@ -53,7 +53,7 @@ class CuentaCorriente extends Cuenta {
     }
 }
 
-// 🟢 MAIN
+//  MAIN
 public class Problema3 {
 
     public static void main(String[] args) {
